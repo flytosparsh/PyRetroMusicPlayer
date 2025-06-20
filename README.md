@@ -21,10 +21,8 @@ A desktop GUI-based retro music player built with Python using `Tkinter` for the
 ---
 
 ## 🛠️ Installation & Run
-
-### 1. Clone the Repository
-
 ```bash
+# 1. Clone the Repository
 git clone https://github.com/yourusername/PyRetroMusicPlayer.git
 cd PyRetroMusicPlayer
 # 2. (Optional) Create a Virtual Environment
