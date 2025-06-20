@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><body>
+<h2>Sign Up</h2>
+<form method="post">{% csrf_token %}
+  Username: <input name="username"><br>
+  Password: <input type="password" name="password"><br>
+  <input type="submit" value="Sign Up">
+</form>
+{% if error %}<p>{{ error }}</p>{% endif %}
+<a href="/login">Login</a>
+</body></html>
