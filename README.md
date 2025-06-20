@@ -63,3 +63,18 @@ python gui_app/main.py
 
 # To install all at once:
 pip install -r requirements.txt
+
+# 🚧 Future Improvements
+
+- 🧳 Package as a standalone desktop app using PyInstaller
+- 🎤 Add lyrics display and translation functionality
+- 📡 Integrate streaming APIs like YouTube or Spotify
+- 🔖 Enable playlist export and import
+- 📢 Add desktop notifications for track changes
+```
+
+## 👨‍💻 Author
+
+**Sparsh Sharma**  
+📫 www.linkedin.com/in/flytosparsh 
+
